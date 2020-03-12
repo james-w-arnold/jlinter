@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { parsePath } = require('./index')
 const { table } = require('table')
 const yargs = require('yargs')
