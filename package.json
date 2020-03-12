@@ -1,0 +1,13 @@
+{
+  "name": "white-space-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Arnold <james@pairgo.co.uk>",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "dependencies": {
+    "cli-progress": "^3.6.0",
+    "table": "^5.4.6",
+    "yargs": "^15.3.0"
+  }
+}
